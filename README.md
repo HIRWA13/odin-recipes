@@ -1,2 +1,13 @@
-# odin-recipes
-HTML Recipee Project
+# odin-recipes project
+
+this project covers step by step attemps of the odin project I am currently attempting through the ANDELA's Kickstart program
+# Technologs used:
+- HTML
+
+more to be added later.
+# Progress
+I will be building this step by step from HTML to CSS based on the structure of the curricullum.
+
+
+# Author
+[HIRWA Junior]()
