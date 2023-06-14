@@ -12,6 +12,10 @@ more to be added later.
 
 I will be building this step by step from HTML to CSS based on the structure of the curricullum.
 
+# Site Live URL:
+
+[Odin Recipe](https://odin-recipees-hj.netlify.app/)
+
 # Author
 
 [HIRWA Junior]()
