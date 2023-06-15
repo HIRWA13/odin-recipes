@@ -1,8 +1,8 @@
 # odin-recipes project
 
-this project covers step by step attemps of the odin project I am currently attempting through the ANDELA's Kickstart program
+this project covers step by step attemps of the Recipes Project of the odin project I am currently attempting through the ANDELA's Kickstart program
 
-# Technologs used:
+# Technologies used:
 
 - HTML
 
